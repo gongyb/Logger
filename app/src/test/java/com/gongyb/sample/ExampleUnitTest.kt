@@ -1,4 +1,4 @@
-package com.gongyb.logger
+package com.gongyb.sample
 
 import org.junit.Test
 
